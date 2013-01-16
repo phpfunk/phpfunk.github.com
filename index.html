@@ -6,11 +6,55 @@
     <title>me</title>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script type="text/javascript">
+
+    var phpfunk        = {};
+    var repos          = {};
+    repos.alfred       = {};
+    repos.forked       = {};
+    repos.owned        = {};
+
+    phpfunk.setRepos = function(type)
+    {
+        var html = '';
+
+        for (var i in repos[type]) {
+            html = '<div class="repo" style="width:250px;border:1px solid #f1f1f1;margin-right:10px;padding:5px;float:left;margin-bottom:10px;">';
+            html += '<h4><a href="' + repos[type][i].html_url + '" target="_blank">'  + repos[type][i].name + '</a></h4>';
+            html += '<p class="small">Watchers: ' + repos[type][i].watchers + '</p>';
+            html += '<p class="small">Last Updated: ' + repos[type][i].pushed_at + '</p>';
+            //html += '<p class="small">Clone: ' + repos[type][i].git_url + '</p>';
+            html += '</div>';
+            $('#' + type + '-repos').append(html);
+        }
+    }
+
     $(document).ready(function()
     {
+
+        var uri = "https://api.github.com/users/phpfunk/repos?per_page=100&page=1&callback=?";
         $.getJSON(uri, function(result)
         {
-            console.log(result);
+            var total_repos    = result.data.length;
+            var data           = result.data;
+            var name           = '';
+
+            for (var i = 0; i < total_repos; i++) {
+                name = data[i].name;
+                if (data[i].fork !== true) {
+                    repos.owned[name] = data[i];
+                }
+                else {
+                    repos.forked[name] = data[i];
+                }
+
+                if (data[i].git_url.indexOf('alfred') >= 0 && data[i].fork !== true) {
+                    repos.alfred[name] = data[i];
+                }
+            }
+            phpfunk.setRepos('owned');
+            phpfunk.setRepos('alfred');
+            phpfunk.setRepos('forked');
+            console.log(repos);
         });
     });
     /*
@@ -227,9 +271,15 @@
     </script>
   </head>
   <body>
+      <h2 style="clear:both;">My Repos</h2>
+      <ol id="owned-repos"></ol>
 
+      <h2 style="clear:both;">Alfred Extensions</h2>
+      <ol id="alfred-repos"></ol>
 
-      <ol id="repos"></ol>
+      <h2 style="clear:both;">Forked Repos</h2>
+      <ol id="forked-repos"></ol>
+
     </div>
   </body>
 </html>
