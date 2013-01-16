@@ -28,7 +28,8 @@
             //push += date.getUTCHours().toString() + ':' + date.getUTCMinutes().toString() + ':' + date.getUTCSeconds().toString();
             html = '<div class="repo">';
             html += '<h4><a href="' + repos[type][i].html_url + '" target="_blank">'  + repos[type][i].name + '</a></h4>';
-            html += '<p class="small">Last Updated: ' + push + '</p>';
+            html += '<p class="desc">' + repos[type][i].description + '</p>';
+            html += '<p class="small">Last Pushed: ' + push + '</p>';
             html += '<p class="small">Watchers: ' + repos[type][i].watchers + '</p>';
             html += '</div>';
             $('#' + type + '-repos').append(html);
@@ -75,7 +76,7 @@
           <h2>My Repos</h2>
           <div id="owned-repos" class="repo-container"></div>
 
-          <h2>Forked Repos</h2>
+          <h2>Forks</h2>
           <div id="forked-repos" class="repo-container"></div>
           <br clear="all">
       </div>
