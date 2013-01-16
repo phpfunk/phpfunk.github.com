@@ -34,10 +34,19 @@ p.small {
     letter-spacing: -0.5px;
 }
 
+p.lang {
+    font-size: 13px;
+    color: #555;
+    margin-bottom: 5px;
+}
+
 p.desc {
     font-size: 14px;
     color: #777;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+    margin-top: -2px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
 }
 
 div#container {
@@ -56,7 +65,7 @@ div.repo {
     -moz-box-shadow:0px 0px 3px 1px rgba(119, 119, 119, 0.5);
     -webkit-box-shadow:0px 0px 3px 1px rgba(119, 119, 119, 0.5);
     box-shadow:0px 0px 3px 1px rgba(119, 119, 119, 0.5);
-    height: 150px;
+    height: 175px;
 }
 
 div.repo-container {

@@ -21,14 +21,18 @@
         var html = '';
         var date = {};
         var push = '';
+        var lang = '';
 
         for (var i in repos[type]) {
             date = new Date(repos[type][i].pushed_at);
             push = (date.getUTCMonth() + 1).toString() + '/' + date.getUTCDate().toString() + '/' + date.getUTCFullYear().toString();
+            lang = (repos[type][i].language !== null) ? repos[type][i].language : 'Various';
+
             //push += date.getUTCHours().toString() + ':' + date.getUTCMinutes().toString() + ':' + date.getUTCSeconds().toString();
             html = '<div class="repo">';
             html += '<h4><a href="' + repos[type][i].html_url + '" target="_blank">'  + repos[type][i].name + '</a></h4>';
             html += '<p class="desc">' + repos[type][i].description + '</p>';
+            html += '<p class="small">Language(s): ' + lang + '</p>';
             html += '<p class="small">Last Pushed: ' + push + '</p>';
             html += '<p class="small">Watchers: ' + repos[type][i].watchers + '</p>';
             html += '</div>';
