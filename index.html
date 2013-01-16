@@ -55,7 +55,7 @@
             for (var i = 0; i < total_repos; i++) {
 
                 name = data[i].name;
-                is_alfred = (data[i].git_url.indexOf('alfred') >= 0 || data[i].description.indexOf('alfred') >= 0) ? true : false;
+                is_alfred = (data[i].git_url.toLowerCase().indexOf('alfred') >= 0 || data[i].description.toLowerCase().indexOf('alfred') >= 0) ? true : false;
 
                 if (data[i].fork !== true && is_alfred === false) {
                     repos.owned[name] = data[i];
