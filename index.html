@@ -50,19 +50,23 @@
             var total_repos    = result.data.length;
             var data           = result.data;
             var name           = '';
+            var is_alfred      = false;
 
             for (var i = 0; i < total_repos; i++) {
+
                 name = data[i].name;
-                if (data[i].fork !== true) {
+                is_alfred = (data[i].git_url.indexOf('alfred') >= 0 || data[i].description.indexOf('alfred') >= 0) ? true : false;
+
+                if (data[i].fork !== true && is_alfred === false) {
                     repos.owned[name] = data[i];
+                }
+                else if (data[i].fork !== true && is_alfred === true) {
+                    repos.alfred[name] = data[i];
                 }
                 else {
                     repos.forked[name] = data[i];
                 }
 
-                if (data[i].git_url.indexOf('alfred') >= 0 && data[i].fork !== true) {
-                    repos.alfred[name] = data[i];
-                }
             }
             phpfunk.setRepos('owned');
             phpfunk.setRepos('alfred');
