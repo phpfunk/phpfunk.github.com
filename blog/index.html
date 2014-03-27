@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>phpfunk - Blog (well gists really)</title>
+    <link rel="stylesheet" type="text/css" href="../css/reset.css">
+    <link href='http://fonts.googleapis.com/css?family=BenchNine|Fjalla+One|Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="../css/styles.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script>
+    $(document).ready(function()
+    {
+        var layout = $('#layout').html();
+        var uri = "https://api.github.com/users/phpfunk/gists?per_page=20&page=1&callback=?";
+        $.getJSON(uri, function(res)
+        {
+            if (res.data) {
+                var title = '', url = '', languages = '', delimiter = '', html = '';
+                for (var i = 0; i < res.data.length; i++) {
+                    title     = res.data[i].description;
+                    url       = res.data[i].html_url;
+                    languages = '';
+                    for (var x in res.data[i].files) {
+                        if (res.data[i].files[x].language != '' && res.data[i].files[x].language != null) {
+                            delimiter = (languages != '') ? ', ' : '';
+                            languages += delimiter + res.data[i].files[x].language;
+                        }
+                    }
+                    languages = (languages == '') ? 'Unknown' : languages;
+                    if (title != '') {
+                        html += layout.replace('{TITLE}', title).replace('{URL}', url).replace('{LANGUAGES}', languages);
+                    }
+                }
+                $('#gists').html(html);
+            }
+            else {
+                $('#gists').html('<h3>No gists found at this time.</h3>');
+            }
+        });
+    });
+    </script>
+</head>
+<body class="blog">
+    <div id="container">
+        <h2>This isn't a blog?</h2>
+        <p>I don't keep a regular blog, I've tried but I don't really enjoy it. Not my thing. One thing I do post a lot of is code snippets/samples.</p>
+        <p>That being said my blog is nothing more than my most recent gists on github. Enjoy.</p>
+
+        <h2>Recent Gists</h2>
+        <div id="gists"></div>
+        <div id="layout" style="display:none;">
+            <h3><a href="{URL}" target="_blank">{TITLE}</a></h3>
+            <p class="lang">Languages Used: {LANGUAGES}</p>
+        </div>
+    </div>
+</body>
+</html>
