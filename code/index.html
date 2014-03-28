@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>phpfunk - Code &amp; Github Repositories</title>
+    <link rel="shortcut icon" href="/images/favicon.png">
+    <link rel="apple-itouch-icon" href="/images/apple-touch-icon.png">
+    <link rel="stylesheet" type="text/css" href="../css/reset.css">
+    <link href='http://fonts.googleapis.com/css?family=BenchNine|Fjalla+One|Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="../css/styles.css">
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-16284578-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+    var phpfunk        = {};
+    var repos          = {};
+    repos.alfred       = {};
+    repos.forked       = {};
+    repos.owned        = {};
+
+    phpfunk.setRepos = function(type)
+    {
+        var html = '';
+        var date = {};
+        var push = '';
+        var lang = '';
+
+        for (var i in repos[type]) {
+            date = new Date(repos[type][i].pushed_at);
+            push = (date.getUTCMonth() + 1).toString() + '/' + date.getUTCDate().toString() + '/' + date.getUTCFullYear().toString();
+            lang = (repos[type][i].language !== null) ? repos[type][i].language : 'Various';
+
+            //push += date.getUTCHours().toString() + ':' + date.getUTCMinutes().toString() + ':' + date.getUTCSeconds().toString();
+            html = '<div class="repo">';
+            html += '<h4><a href="' + repos[type][i].html_url + '" target="_blank">'  + repos[type][i].name + '</a></h4>';
+            html += '<p class="desc">' + repos[type][i].description + '</p>';
+            html += '<p class="small">Language(s): ' + lang + '</p>';
+            html += '<p class="small">Last Pushed: ' + push + '</p>';
+            html += '<p class="small">Watchers: ' + repos[type][i].watchers + '</p>';
+            html += '</div>';
+            $('#' + type + '-repos').append(html);
+        }
+        $('#' + type + '-repos').append('<br clear="all">');
+    }
+
+    $(document).ready(function()
+    {
+
+        var uri = "https://api.github.com/users/phpfunk/repos?per_page=100&page=1&callback=?";
+        $.getJSON(uri, function(result)
+        {
+            var total_repos    = result.data.length;
+            var data           = result.data;
+            var name           = '';
+            var is_alfred      = false;
+
+            for (var i = 0; i < total_repos; i++) {
+
+                name = data[i].name;
+                is_alfred = (data[i].git_url.toLowerCase().indexOf('alfred') >= 0 || data[i].description.toLowerCase().indexOf('alfred') >= 0) ? true : false;
+
+                if (data[i].fork !== true && is_alfred === false) {
+                    repos.owned[name] = data[i];
+                }
+                else if (data[i].fork !== true && is_alfred === true) {
+                    repos.alfred[name] = data[i];
+                }
+                else {
+                    repos.forked[name] = data[i];
+                }
+
+            }
+            phpfunk.setRepos('owned');
+            phpfunk.setRepos('alfred');
+            phpfunk.setRepos('forked');
+            //console.log(repos);
+        });
+    });
+    </script>
+  </head>
+  <body>
+      <div id="container">
+          <h2>Alfred Extensions</h2>
+          <div id="alfred-repos" class="repo-container"></div>
+
+          <h2>My Repos</h2>
+          <div id="owned-repos" class="repo-container"></div>
+
+          <h2>Forks</h2>
+          <div id="forked-repos" class="repo-container"></div>
+          <br clear="all">
+      </div>
+
+    </div>
+  </body>
+</html>
