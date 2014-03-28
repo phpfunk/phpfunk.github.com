@@ -1,92 +1,32 @@
-
 <!DOCTYPE html>
-
 <html>
   <head>
-    <title>phpfunk</title>
+    <title>phpfunk - Husband, Father of Three and Software Developer from Eastern, Pennsylvania.</title>
+    <link rel="shortcut icon" href="/images/favicon.png">
+    <link rel="apple-itouch-icon" href="/images/apple-touch-icon.png">
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link href='http://fonts.googleapis.com/css?family=BenchNine|Fjalla+One|Open+Sans' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-16284578-1']);
+        _gaq.push(['_trackPageview']);
 
-    var phpfunk        = {};
-    var repos          = {};
-    repos.alfred       = {};
-    repos.forked       = {};
-    repos.owned        = {};
-
-    phpfunk.setRepos = function(type)
-    {
-        var html = '';
-        var date = {};
-        var push = '';
-        var lang = '';
-
-        for (var i in repos[type]) {
-            date = new Date(repos[type][i].pushed_at);
-            push = (date.getUTCMonth() + 1).toString() + '/' + date.getUTCDate().toString() + '/' + date.getUTCFullYear().toString();
-            lang = (repos[type][i].language !== null) ? repos[type][i].language : 'Various';
-
-            //push += date.getUTCHours().toString() + ':' + date.getUTCMinutes().toString() + ':' + date.getUTCSeconds().toString();
-            html = '<div class="repo">';
-            html += '<h4><a href="' + repos[type][i].html_url + '" target="_blank">'  + repos[type][i].name + '</a></h4>';
-            html += '<p class="desc">' + repos[type][i].description + '</p>';
-            html += '<p class="small">Language(s): ' + lang + '</p>';
-            html += '<p class="small">Last Pushed: ' + push + '</p>';
-            html += '<p class="small">Watchers: ' + repos[type][i].watchers + '</p>';
-            html += '</div>';
-            $('#' + type + '-repos').append(html);
-        }
-        $('#' + type + '-repos').append('<br clear="all">');
-    }
-
-    $(document).ready(function()
-    {
-
-        var uri = "https://api.github.com/users/phpfunk/repos?per_page=100&page=1&callback=?";
-        $.getJSON(uri, function(result)
-        {
-            var total_repos    = result.data.length;
-            var data           = result.data;
-            var name           = '';
-            var is_alfred      = false;
-
-            for (var i = 0; i < total_repos; i++) {
-
-                name = data[i].name;
-                is_alfred = (data[i].git_url.toLowerCase().indexOf('alfred') >= 0 || data[i].description.toLowerCase().indexOf('alfred') >= 0) ? true : false;
-
-                if (data[i].fork !== true && is_alfred === false) {
-                    repos.owned[name] = data[i];
-                }
-                else if (data[i].fork !== true && is_alfred === true) {
-                    repos.alfred[name] = data[i];
-                }
-                else {
-                    repos.forked[name] = data[i];
-                }
-
-            }
-            phpfunk.setRepos('owned');
-            phpfunk.setRepos('alfred');
-            phpfunk.setRepos('forked');
-            //console.log(repos);
-        });
-    });
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
     </script>
   </head>
-  <body>
+  <body class="index">
       <div id="container">
-          <h2>Alfred Extensions</h2>
-          <div id="alfred-repos" class="repo-container"></div>
+          <h2>Shazzam!</h2>
+          <p>My name is Jeff Johns. I am a husband, father of three, software developer, runner and music lover. I currently work at <a href="http://plainmade.com" target="_blank">Plain</a> and we make <a href="http://getbarley.com" target="_blank">Barley</a> and <a href="https://ummark.it" target="_blank">Unmark</a>.</p>
 
-          <h2>My Repos</h2>
-          <div id="owned-repos" class="repo-container"></div>
+          <p>You can check me out on <a href="http://twitter.com/phpfunk" target="_blank">Twitter</a>, view my <a href="/code">Github Repos</a>, read my really cool <a href="/blog">blog</a>, see what I'm listening to on <a href="http://www.rdio.com/people/phpfunk/" target="_blank">Rdio</a> or run with me on <a href="http://runkeeper.com/user/phpfunk/profile" target="_blank">Runkeeper</a>.</p>
 
-          <h2>Forks</h2>
-          <div id="forked-repos" class="repo-container"></div>
-          <br clear="all">
+          <p>You can contact me <a href="mailto:phpfunk+contact@gmail.com" target="_blank">here</a> or call me at 484-619-FUNK.</p>
       </div>
 
     </div>
