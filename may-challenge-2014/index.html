@@ -28,9 +28,28 @@
         })();
     </script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        $(document).ready(function()
-        {
+</head>
+<body class="blog">
+    <div id="container">
+        <h2>May Mileage Challenge</h2>
+        <p>The hardest part about getting active again is actually getting started. If you set a public goal it makes it easier to get moving again. If you would like to participate in the May Mileage Challege please fill out the form below.</p>
+        <p>There only two requirements: You must have a Runkeeper account and you must commit to a minimum of 25 miles.</p>
+        <p>You can log those miles however you want; running, walking, surfing, biking or anything else. Just get moving again.</p>
+        <p>I will create a report in Runkeeper and update this page with your stats every day. So people can publicly see the progress you are making. If this goes well maybe we will do it every month.</p>
+
+        <h2>Progress (Days Left: <span id="days-left"></span>)</h2>
+        <div id="progress">
+            <br>
+            Jenny H. - <span id="jh-perc"></span>
+            <div class="bar-bg"><div id="jh-progress">&nbsp;</div></div>
+
+            Jeff J. - <span id="jj-perc"></span>
+            <div class="bar-bg"><div id="jj-progress">&nbsp;</div></div>
+
+            Anne J. - <span id="aj-perc"></span>
+            <div class="bar-bg"><div id="aj-progress">&nbsp;</div></div>
+        </div>
+        <script type="text/javascript">
             var runners = {
                 'jh': {
                     'goal': 50,
@@ -70,32 +89,10 @@
                 }, 'slow');
                 //$('#' + i + '-progress').css('width' , w.toString() + '%');
             }
-        });
     </script>
-</head>
-<body class="blog">
-    <div id="container">
-        <h2>May Mileage Challenge</h2>
-        <p>The hardest part about getting active again is actually getting started. If you set a public goal it makes it easier to get moving again. If you would like to participate in the May Mileage Challege please fill out the form below.</p>
-        <p>There only two requirements: You must have a Runkeeper account and you must commit to a minimum of 25 miles.</p>
-        <p>You can log those miles however you want; running, walking, surfing, biking or anything else. Just get moving again.</p>
-        <p>I will create a report in Runkeeper and update this page with your stats every day. So people can publicly see the progress you are making. If this goes well maybe we will do it every month.</p>
-
-        <h2>Progress (Days Left: <span id="days-left"></span>)</h2>
-        <div id="progress">
-            <br>
-            Jenny H. - <span id="jh-perc"></span>
-            <div class="bar-bg"><div id="jh-progress">&nbsp;</div></div>
-
-            Jeff J. - <span id="jj-perc"></span>
-            <div class="bar-bg"><div id="jj-progress">&nbsp;</div></div>
-
-            Anne J. - <span id="aj-perc"></span>
-            <div class="bar-bg"><div id="aj-progress">&nbsp;</div></div>
-        </div>
 
         <h2>Participation Form</h2>
-        <script type="text/javascript" src="https://www.formstack.com/forms/js.php?1734221-dVh0vOWpIh-v3" async></script>
+        <script type="text/javascript" src="https://www.formstack.com/forms/js.php?1734221-dVh0vOWpIh-v3"></script>
         <noscript><a href="https://www.formstack.com/forms/?1734221-dVh0vOWpIh" title="Online Form">Online Form - May Mileage Challenge</a></noscript>
         <div style="text-align:right; font-size:x-small;"><a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,1734221" title="Web Form Creator">Web Form Creator</a></div>
     </div>
