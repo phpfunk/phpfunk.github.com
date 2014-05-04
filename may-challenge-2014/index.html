@@ -42,13 +42,21 @@
                 }
             };
 
+            var max_days = 31;
+            var d        = new Date();
+            d            = d.getDate();
+            var days_left = max_days - (d -1);
+            $('#days-left').html(days_left);
+
             var perc = 0;
             var w    = 0;
             var t    = 0;
+            var a    = 0;
             for (var i in runners) {
                 perc = Math.floor((runners[i].complete / runners[i].goal) * 100);
                 w    = (perc > 100) ? 100 : perc;
-                $('#' + i + '-perc').html(runners[i].complete.toString() + ' out of ' + runners[i].goal.toString() + ' miles complete (' + perc.toString() + '%).');
+                a    = (runners[i].goal - runners[i].complete) / days_left;
+                $('#' + i + '-perc').html(runners[i].complete.toString() + ' out of ' + runners[i].goal.toString() + ' miles complete (' + perc.toString() + '%). Average ' + parseFloat(a).toFixed(2) + ' miles a day to hit your goal.');
                 $('#' + i + '-progress').animate({
                     'width': w.toString() + '%'
                 }, 'slow');
@@ -65,7 +73,7 @@
         <p>You can log those miles however you want; running, walking, surfing, biking or anything else. Just get moving again.</p>
         <p>I will create a report in Runkeeper and update this page with your stats every day. So people can publicly see the progress you are making. If this goes well maybe we will do it every month.</p>
 
-        <h2>Progress</h2>
+        <h2>Progress (Days Left: <span id="days-left"></span>)</h2>
         <div id="progress">
             <br>
             Jenny H. - <span id="jh-perc"></span>
