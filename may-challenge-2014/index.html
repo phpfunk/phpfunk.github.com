@@ -52,11 +52,14 @@
             var w    = 0;
             var t    = 0;
             var a    = 0;
+            var msg  = '';
             for (var i in runners) {
                 perc = Math.floor((runners[i].complete / runners[i].goal) * 100);
                 w    = (perc > 100) ? 100 : perc;
-                a    = (runners[i].goal - runners[i].complete) / days_left;
-                $('#' + i + '-perc').html(runners[i].complete.toString() + ' out of ' + runners[i].goal.toString() + ' miles complete (' + perc.toString() + '%). Average ' + parseFloat(a).toFixed(2) + ' miles a day to hit your goal.');
+                a    = (runners[i].goal > runners[i].complete) ? (runners[i].goal - runners[i].complete) / days_left : 0;
+                msg  = runners[i].complete.toString() + ' out of ' + runners[i].goal.toString() + ' miles complete (' + perc.toString() + '%).';
+                msg += (a > 0) ? ' Average ' + parseFloat(a).toFixed(2) + ' miles a day to hit your goal.' : '';
+                $('#' + i + '-perc').html(msg);
                 $('#' + i + '-progress').animate({
                     'width': w.toString() + '%'
                 }, 'slow');
