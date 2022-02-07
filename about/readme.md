@@ -8,9 +8,9 @@
 
 
 # Intro
-First and foremost, I never knew these documents existed and I am completely fascinated by this. I love the idea of me taking time to really put pen to paper to understand more about me and how we can work together. I think it will also allow me to understand myself better. Quite brilliant.
+Creating this document was a great experience. It is intended to be an "About Me" for not only what I'm like as manager and leader, but also what I'm like as a person. It allows you to get to know me a bit, but also forces you to really think how you like and want to lead. Quite brilliant.
 
-Below you will find information about me on a personal level as well as a professional level. Truth be told, they are the same. I really aim to be my authentic self no matter the situation. My level of comfort in each situation tends to let certain attributes shine or stay on reserve.
+Below you will find information about me on a personal and professional level. Truth be told, they are the same. I really aim to be my authentic self no matter the situation. My level of comfort in each situation tends to let certain attributes shine or stay on reserve.
 
 # About Me
 My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/place/Just+Born+Quality+Confections/@40.6320851,-75.3562492,17z/data=!3m1!4b1!4m5!3m4!1s0x89c43fcfb5e887a1:0xfe15a5d32a833bd4!8m2!3d40.632081!4d-75.3540605) along with my wife Annie, our 3 children (Anya, Ivy, and Olen), and our dog Herman. As a family we spend most of our time traveling to soccer (football) related events. When not traveling for soccer events I have a few personal hobbies.
