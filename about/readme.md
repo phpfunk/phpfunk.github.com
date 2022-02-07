@@ -10,7 +10,7 @@ My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/
 
 On a personal note a few of my hobbies include: collecting vinyl records, tinkering with cars, coding personal projects, and I used to love running really long distances. Feel free to ask me how a friend of mine convinced me to run more than I ever thought I could.
 
-#### Personality Type
+### Personality Type
 Over the years I have taken many personality tests. As you get into leadership roles, this seems to be something you are asked to partake in. I personally find them fascinating and most of the times spot on.
 
 Some results that may interest you:
@@ -20,28 +20,28 @@ Some results that may interest you:
 
 What I have been able to take away from all of these boils down to this: I lead with Empathy & Trust, I need to think most times before I respond, I **NEED** to share early and often or I might not share at all, and it took years to kick the habit but I am a recovering perfectionist. I have fully embraced learning by making mistakes and iterations are the new perfect.
 
-#### My Why Statement
+### My Why Statement
 *'Creating meaningful relationships to encourage growth'* is how I try to live my life whether at work or at home. I focus a lot of my time and energy on relationships so we can build trust and continue to grow. I genuinely care about people and their well being. I want to see everyone around me succeed, this brings me energy and joy.
 
 ## Core Principles & Values
 Over the years I have gone through iterations of how I work and what I believe in. I believe it's important to try and stay as closely aligned to your principles as possible. If you want to be your authentic self, then you need to know where you stand.
 
-#### Be as Transparent as Possible
+### Be as Transparent as Possible
 Not everyone feels comfortable discussing every topic in a transparent fashion. I don't think it is always healthy either. I want people to be as transparent as possible. If you feel comfortable discussing a topic, let's go. If not, say that. Don't hide from it, let me know you don't feel comfortable and we will find another path.
 
-#### Embrace our Differences
+### Embrace our Differences
 We are all different for a reason. We all think differently, feel differently, see things differently. This is a blessing. Embrace the differences we see and discuss them to make a more successful tomorrow. Everyone's thoughts and opinions matter. We are only as good as our entire team.
 
-#### Trust First
+### Trust First
 I lead with trust from day one. We are all here for a reason and you don't need to earn trust. We may lose each other's trust at times and have to earn it back, but from day one, trust is given.
 
-#### Lead with Your Second Thought
+### Lead with Your Second Thought
 If you have worked with me for some time, you may hear me say this. I learned this trick many years ago in a management class at Tribune Publishing which stuck with me forever. We all have that first reactionary thought. Don't say that, it's typically filled with emotion and not facts. Wait for your second thought, if you don't have one, sit on that first thought for a while to make sure it's the right thing to say.
 
-#### Iterations are the key to success
+### Iterations are the key to success
 I do not believe in perfect. I believe in small iterations to succeed. Whether that is a feature, personal growth, an operational change. Keep it small, keep iterating, and revert we you need to.
 
-#### Make mistakes
+### Make mistakes
 Mistakes are key for growth. You will always learn more about yourself and your work when you make a mistake. Make mistakes, but learn from them. Learning in the key element of making mistakes. I will never be upset about making mistakes, unless we are making the same mistakes and not learning from them.
 
 
