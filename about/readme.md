@@ -68,7 +68,6 @@ One on ones happen either weekly or biweekly. Your choice. They can range from 3
 - I will **ALWAYS** encourage you to give feedback to your peers.
 
 ### Communication Channels
-I think of communication in 3 aspects:
 - You need an immediate answer: Call me
 - You need an answer sometime today: Slack Me
 - You need an answer sometime this week: Email Me
