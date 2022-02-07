@@ -52,27 +52,20 @@ I lead with trust from day one. We're all here for a reason and you don't need t
 ### Lead with Your Second Thought
 If you've worked with me for some time, you may hear me say this. We all have our first reactionary thought. Don't say that, it's typically filled with emotion that may cause people to not hear what you really want to say. Wait for your second thought, if you don't have one, sit on that first thought to make sure it's the right thing to say. Sometimes saying nothing is enough.
 
-### Iterations are the New Perfect
-I don't believe in perfect. I believe in small iterations to succeed. Whether that is a feature, personal growth, or an operational change. Keep it small, keep iterating, and revert if you need to. Need proof? Just check out the [commit history](https://github.com/phpfunk/phpfunk.github.com/commits/aboutme/about/readme.md) for this readme.
-
-### Make Mistakes
-Mistakes are key for growth. You always learn more about yourself and your work when you make a mistake. Make them, but learn from them. I never get upset about mistakes, unless we are continually repeating the same mistakes without learning from them.
-
 # Me as a Manager / Leader
 The above principles can say a lot about how I tend to work, but can also leave things up to interpretation. I want to be as clear as possible as to my expectations and the way I work as a manager & leader.
 
 ### People & Team First, Always
-While we all have our own personal growth goals, we need to think about the team. Our own growth can only go so far if you aren't thinking about the team. When the team is successful, we're all successful.
+While we all have our own personal growth goals, we need to think about the team. Our own growth can only go so far if you aren't thinking about the team. When the team is successful, we're all successful. Collaboration is key, no one person is smarter than the team.
 
 ### 1:1s
-One on ones happen either weekly or biweekly. Your choice. They can range from 30, 45, or 60 minutes. Again, your choice. I tend to like to set up trello boards to track topics and not lose sight of our goals. This is a not an update session on tasks or projects, this is about you and your growth. The trello board will be populated by both myself and you with relevant topics.
+One on ones happen either weekly or biweekly. Your choice. They can range from 30, 45, or 60 minutes. Again, your choice. I tend to like to set up trello boards to track topics and not lose sight of our goals. This is a not an update session on tasks or projects, this is about you and your growth. The trello board will be populated by both you and myself with relevant topics.
 
 ![Sample Trello Board](/images/trello-sample.png)
 
 ### Feedback Loops
-- I really don't like public praise, I tend to shy away from it. It's okay to embarrass me with this, I will recover.
 - I want & expect feedback whether it's good or bad in both directions. From the team and leadership.
-- I want to understand how you like to receive feedback to make you feel comfortable.
+- I want to understand how you like to receive feedback to make you comfortable.
 - I will **NEVER** give criticism in public.
 - I will **ALWAYS** encourage you to give feedback to your peers.
 
@@ -84,11 +77,23 @@ One on ones happen either weekly or biweekly. Your choice. They can range from 3
 ### Always Ask Why
 Why is the most important metric to track. If you don't know why you are building something, stop. If you don't know why you are being asked to do a task, please stop. We should all be asking 'Why' when we don't know. It is the most important metric we can track.
 
-### Empower You to Solve Your Own Problems
-The last thing I want is for me to just solve problems for you. It doesn't benefit you or me. I want to help you find the ways to solve your own problems. When you come to me with a problem I am likely going to ask you 'Well, what do you think?'. This isn't because I don't have an opinion, it's because I want to hear yours. I want you to make mistakes and find the right path for you. We will solve problems together.
+### Ownership
+I expect that if you take the work, you own the work. If you are having issues, let's talk. I will not micromanage. I expect you to deliver what you say you will in the timeframe you agreed to.
+
+### Problem Solving
+The last thing I want is for me to just solve problems for you. It doesn't benefit you or me. I want to help you find ways to solve your own problems. When you come to me with a problem I am likely going to ask you 'Well, what do you think?'. This isn't because I don't have an opinion, it's because I want to hear yours. I want you to make mistakes and find the right path. We will solve problems together.
+
+### Conflict Resolution
+Let's be honest, conflicts happen. Even with best intentions, they happen. When conflicts between people arise I will not solve this problem for you. Again, I will help you solve the problem and give you the right tools to feel ready to have the right conversation, but I will not speak for you. I have and I will be a 3rd party in conflict resolution when needed.
+
+### Iterations are the New Perfect
+I don't believe in perfect. I believe in small iterations to succeed. Whether that is a feature, personal growth, or an operational change. Keep it small, keep iterating, and revert if you need to. Need proof? Just check out the [commit history](https://github.com/phpfunk/phpfunk.github.com/commits/aboutme/about/readme.md) for this readme.
+
+### Make Mistakes
+Mistakes are key for growth. Everything I have written about in this readme, I have failed at, at some point in my life. You always learn more about yourself and your work when you make a mistake. I never get upset about mistakes, unless we are continually repeating the same mistakes without learning from them.
 
 ### Work/Life Balance
-I value time away from work to relax and recharge. You should as well. I don't normally check email/slack in off times. If you do need me during non-core hours, please give me a call. I will always answer or get right back to you.
+I value time away from work to relax and recharge. You should as well. I don't normally check email/slack in off times. If you do need me during non-core hours, please give me a call. I will always answer or get right back to you. I will not contact you in off times unless it is an emergency. They make delayed sending in slack and gmail for this very reason.
 
 # Things I Need Help With
 We all have things we need help improving. Below are a few things I could always use feedback and help with to improve.
@@ -100,6 +105,7 @@ We all have things we need help improving. Below are a few things I could always
 
 # Personality Quirks
 - I can be shy at first, ask me questions, I will open up right away.
+- I really don't like public praise. It's okay to embarrass me with this, I will recover.
 - In stressful situations I tend to bring comedy to break tension. Sorry in advance.
 - I always set my availability in slack, while not needed, I feel like I need to.
 - I like to ask a lot of questions. It's not because I don't trust you, it's because I believe asking questions might uncover things we didn't think about.
