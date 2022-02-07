@@ -65,6 +65,7 @@ One on ones happen either weekly or biweekly. Your choice. They can range from 3
 
 ### Feedback Loops
 - I want & expect feedback whether it's good or bad in both directions. From the team and leadership.
+- I will give feedback to my team, peers, and leadership when need be.
 - I want to understand how you like to receive feedback to make you comfortable.
 - I will **NEVER** give criticism in public.
 - I will **ALWAYS** encourage you to give feedback to your peers.
