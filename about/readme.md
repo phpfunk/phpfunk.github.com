@@ -53,38 +53,41 @@ Mistakes are key for growth. You will always learn more about yourself and your 
 The above principles can say a lot about how I tend to work, but can also leave things up to interpretation. I want to be as clear as possible as to my expectations and the way I work as a manager & leader.
 
 ### People & Team First, Always
-While we all have our own personal growth goals, we need to think about the team. Our own growth can only go so far if you aren't thinking about the team. When the team is successful, we are all successful. We must always think of the team over the individual.
+While we all have our own personal growth goals, we need to think about the team. Our own growth can only go so far if you aren't thinking about the team. When the team is successful, we are all successful.
 
 ### 1:1s
 One on ones happen either weekly or biweekly. Your choice. They can range from 30, 45, or 60 minutes. Again, your choice. I tend to like to set up trello boards to track topics and not lose sight of our goals. This is a not an update session on tasks or projects, this is about you and your growth. The trello board will be populated by both myself and you with relevant topics.
 
 -- INSERT IMAGE --
 
-### Feedback both Ways
-I expect feedback from you. I will always be there to give you feedback, but I also expect and need feedback about myself from you. Again team first, if I am doing something that is hurting the team or you, please tell me as soon as possible. I want to continue to grow and learn as well.
+### Feedback Both Ways
+I expect feedback from you. I will always be there to give you feedback, but I also expect and need this about myself from you. Again team first, if I am doing something that is hurting the team or you, please tell me as soon as possible. I want to continue to grow and learn as well.
 
-### Always ask Why
+### Always Ask Why
 Why is the most important metric to track. If you don't know why you are building something, stop. If you don't know why you are being asked to do a task, please stop. We should all be asking 'Why' when we don't know. It is the most important metric we can track.
 
 ### Empower You to Solve Your Own Problems
-The last thing I want is for me to just solve problems for you. It doesn't benefit you or me. I want to help you find the ways to solve our own problems. When you come to me with a problem I am likely going to ask you 'Well, what do you think?'. This isn't because I don't have an opinion, it's because I want to hear yours. I want you to make mistakes and find the right path for you. We will solve problems together.
+The last thing I want is for me to just solve problems for you. It doesn't benefit you or me. I want to help you find the ways to solve your own problems. When you come to me with a problem I am likely going to ask you 'Well, what do you think?'. This isn't because I don't have an opinion, it's because I want to hear yours. I want you to make mistakes and find the right path for you. We will solve problems together.
 
-### Things I Need to Improve
-We all have things we need help improving. I want you to know what you are getting into as well. Below are a few things I could always use feedback on to improve.
+## Things I Need Help With
+We all have things we need help improving. Below are a few things I could always use feedback and help with to improve.
 
-- I default to problem solving in conversations. If it's not a problem something you want me to solve, you may need to tell me up front.
-- 
+- I default to problem solving in conversations. If it's not something you want me to solve, but rather be your rubber duck, please tell me up front.
+- At times I can hold a decision too long because I want data. I know in my gut the right thing to do. Please push me outside my comfort zone if you see this. I will respond.
+- When there are loud people in the room, I can tend to back down. In those situations, I think it is helpful to call on people not talking to give everyone a chance to voice opinions.
+- If I look lost it is likely because I've been thinking about a problem for too long, please tell me to take a walk. Everything is solved on walks.
 
-## Quirks
-- I can be shy at first, the best way for me to get going is just ask me questions
-- I like to ask a lot of questions. I believe questions are the key to success. Often times we rush into things w/o understanding why.
-- I do not like to raise my voice. I will likely never be the loudest person in the room. I see no value in that. Loud <> correct, loud just == loud.
-- I will always set a slack availability, it’s odd but in my head, I have to
+## Personality Quirks
+- I can be shy at first, ask me questions, I will open up right away.
+- In stressful situations I tend to bring comedy to break tension. Sorry in advance.
+- I always set my availability in slack, while not needed, I feel like I need to.
+- I like to ask a lot of questions. I believe asking simple questions can go a long way.
+- I do not like to raise my voice. I will likely never be the loudest person in the room.
 - I sometimes move my lips but don’t speak when I think…Apologies in advance if we are on zoom and you ask if I said something :D
 
-## Feedback
-- I really don't like public praise, I tend to shy away from it.
-- I want feedback whether it's good or bad in both directions. (from the team and leadership)
-- I would love to understand how you like to feedback to not make you feel uncomfortable
-- I will NEVER give personal criticism in public
-- Encourage you to feel comfortable giving feedback to your peers
+## Feedback Loops
+- I really don't like public praise, I tend to shy away from it. It's okay to embarrass me with this, but I will turn red and not say much.
+- I want feedback whether it's good or bad in both directions. From the team and leadership.
+- I would love to understand how you like to feedback to not make you feel uncomfortable.
+- I will **NEVER** give personal criticism in public.
+- I will **ALWAYS** encourage you to give feedback to your peers.
