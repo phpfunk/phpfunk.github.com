@@ -56,7 +56,7 @@ If you've worked with me for some time, you may hear me say this. We all have ou
 The above principles can say a lot about how I tend to work, but can also leave things up to interpretation. I want to be as clear as possible as to my expectations and the way I work as a manager & leader.
 
 ### People & Team First, Always
-While we all have our own personal growth goals, we need to think about the team. Our own growth can only go so far without the team. When the team is successful, we're all successful. Collaboration is key, no one person is smarter than the team.
+My primary goals are to make the team and each individual as successful as possible. The two are not exclusive. Individuals can only grow so much without the team and team cannot grow without each individual's growth. Collaboration is key for a successful team and the growth of each engineer. I expect we all put egos and titles aside and solve problems together. I will work with each team member on their growth plans and what a future could look like for them to not only help them, but the entire team.
 
 ### 1:1s
 One on ones happen either weekly or biweekly. Your choice. They can range from 30, 45, or 60 minutes. Again, your choice. I tend to like to set up trello boards to track topics and not lose sight of our goals. This is a not an update session on tasks or projects, this is about you and your growth. The trello board will be populated by both you and myself with relevant topics.
