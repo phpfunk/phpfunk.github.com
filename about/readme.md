@@ -84,7 +84,7 @@ I expect that if you take the work, you own the work. If you are having issues, 
 We will solve problems together. I will not solve your problems for you. It doesn't benefit you or me. When you come to me with a problem I am likely going to ask you 'Well, what do you think?'. This isn't because I don't have an opinion, it's because I want to hear yours. I want you to make mistakes and find the right path. I will help you find the tools & skillsets you need to solve problems.
 
 ### Conflict Resolution
-Let's be honest, conflicts happen. Even with best intentions, they happen. When conflicts between people arise I will not solve this problem for you. Again, I will help you solve the problem and give you the right tools to feel ready to have the right conversation, but I will not speak for you. I have and I will be a 3rd party in conflict resolution when needed.
+Let's be honest, conflicts happen. Even with best intentions, they happen. When conflicts between people arise I will not solve this for you. Again, I will help you solve the problem and give you the right tools to feel ready to have the right conversation, but I will not speak for you. I have and I will be a 3rd party in conflict resolution when needed.
 
 ### Iterations are the New Perfect
 I don't believe in perfect. I believe in small iterations to succeed. Whether that is a feature, personal growth, or an operational change. Keep it small, keep iterating, and revert if you need to. Need proof? Just check out the [commit history](https://github.com/phpfunk/phpfunk.github.com/commits/aboutme/about/readme.md) for this readme.
