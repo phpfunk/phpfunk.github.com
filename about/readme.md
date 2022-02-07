@@ -35,7 +35,7 @@ Over the years I've been asked to take a few personality tests at work. I find t
 - I adore planning and organization &#129505;
 
 ### My Why Statement
-**'Creating meaningful relationships to encourage growth'** is how I try to live my life whether at work or at home. I focus a lot of my time and energy on relationships so we can build trust and continue to grow. I genuinely care about people and their well being. I want to see everyone around me succeed, this brings me energy and fulfillment.
+**'Creating meaningful relationships to encourage growth'** is how I try to live my life. I focus a lot of my time and energy on relationships so we can build trust and continue to grow. I genuinely care about people and their well being. I want to see everyone around me succeed, this brings me energy and fulfillment.
 
 # My Core Principles
 Over the years I've gone through iterations of how I work and what I believe in. I believe it's important to try and stay as closely aligned to your principles as possible. If you want to be your authentic self, then you need to know where you stand.
@@ -50,7 +50,7 @@ We are all different for a reason. We all think differently, feel differently, s
 I lead with trust from day one. We're all here for a reason and you don't need to earn trust. We may lose each other's trust at times and have to earn it back, but from day one, trust is given.
 
 ### Lead with Your Second Thought
-If you've worked with me for some time, you may hear me say this. We all have our first reactionary thought. Don't say that, it's typically filled with emotion that may cause people to not hear what you really want to say. Wait for your second thought, if you don't have one, sit on that first thought to make sure it's the right thing to say. Sometimes saying nothing is enough.
+If you've worked with me for some time, you may hear me say this. We all have our first reactionary thought. Don't say that, it's typically filled with emotion that may cause people to not hear what you really want to say. Wait for your second thought, if you don't have one, it's okay to say nothing. Sometimes saying nothing is enough.
 
 # Me as a Manager / Leader
 The above principles can say a lot about how I tend to work, but can also leave things up to interpretation. I want to be as clear as possible as to my expectations and the way I work as a manager & leader.
