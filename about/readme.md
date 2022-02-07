@@ -8,7 +8,7 @@
 
 
 # Intro
-First and foremost, I never knew these documents existed and I am completely fascinated by this. I love this idea of me taking time to really put pen to paper to understand more about me and how we can work together. I think it will also allow me to understand myself better. Quite brilliant.
+First and foremost, I never knew these documents existed and I am completely fascinated by this. I love the idea of me taking time to really put pen to paper to understand more about me and how we can work together. I think it will also allow me to understand myself better. Quite brilliant.
 
 Below you will find information about me on a personal level as well as a professional level. Truth be told, they are the same. I really aim to be my authentic self no matter the situation. My level of comfort in each situation tends to let certain attributes shine or stay on reserve.
 
