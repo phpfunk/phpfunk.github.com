@@ -8,14 +8,14 @@ Below you will find information about me on a personal level as well as a profes
 ## About me (personal)
 My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/place/Bethlehem,+PA/@40.6253013,-75.4010458,13z/data=!3m1!4b1!4m5!3m4!1s0x89c43e4acc94c115:0x4ec59c491c91b283!8m2!3d40.6259316!4d-75.3704579) along with my wife Annie, 3 children (Anya, Ivy, and Olen), and our dog Herman. As a family we spend most of our time traveling to soccer related events. Soccer (football) is a household favorite, when not traveling for soccer events, we are typically supporting the Philadelphia Union (MLS) and Liverpool (EPL).
 
-On a personal note a few of my hobbies include: collecting vinyl records, tinkering with cars, coding personal projects, and I used to love running really long distances. Feel free to ask me how a friend of mine convinced me to run more than I ever thought I could.
+On a personal note a few of my hobbies include: [collecting vinyl records](https://www.discogs.com/user/phpfunk/collection), tinkering with cars, [coding personal projects](https://github.com/phpfunk), and I used to [love running really long distances](https://calendar.ultrarunning.com/runner/show?first_name=Jeff&last_name=Johns&runner_id=9291).
 
 ### Personality Type
 Over the years I've been asked to take many personality tests at work. I personally find them fascinating and most of the times spot on. Some results that may interest you:
 
 - Myers Briggs: [INFJ](https://www.verywellmind.com/infj-introverted-intuitive-feeling-judging-2795978)
 - Ennegram: [Type 5](https://www.truity.com/enneagram/personality-type-5-investigator)
-- Spirit Animal: [Bear](https://trustedpsychicmediums.com/spirit-animals/bear-spirit-animal/) - Yes, I really took a test for this :D
+- Spirit Animal: [Bear](https://trustedpsychicmediums.com/spirit-animals/bear-spirit-animal/) - Yes, I really took a test for this &#128513;
 
 What I've been able to take away from all of these are a few key points:
 - I lead with Empathy & Trust
@@ -84,7 +84,7 @@ We all have things we need help improving. Below are a few things I could always
 - I like to ask a lot of questions. It's not because I don't trust you, it's because I believe asking questions and uncover things we didn't think about.
 - Sometimes I throw out "dumb" ideas just to get people talking.
 - I do not like to raise my voice. I will likely never be the loudest person in the room.
-- I sometimes move my lips but don’t speak when I think…Apologies in advance if we are on zoom and you ask if I said something :D
+- I sometimes move my lips but don’t speak when I think…Apologies in advance if we are on zoom and you ask if I said something &#128513;
 
 ## Feedback Loops
 - I really don't like public praise, I tend to shy away from it. It's okay to embarrass me with this, but I will turn red and not say much.
