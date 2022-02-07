@@ -44,10 +44,10 @@ I lead with trust from day one. We're all here for a reason and you don't need t
 If you've worked with me for some time, you may hear me say this. We all have our first reactionary thought. Don't say that, it's typically filled with emotion that may cause people to not hear what you really want to say. Wait for your second thought, if you don't have one, sit on that first thought to make sure it's the right thing to say. Sometimes saying nothing is enough.
 
 ### Iterations are the New Perfect
-I do not believe in perfect. I believe in small iterations to succeed. Whether that is a feature, personal growth, an operational change. Keep it small, keep iterating, and revert if you need to.
+I don't believe in perfect. I believe in small iterations to succeed. Whether that is a feature, personal growth, or an operational change. Keep it small, keep iterating, and revert if you need to.
 
 ### Make Mistakes
-Mistakes are key for growth. You always learn more about yourself and your work when you make a mistake. Make them, but learn from them. I never be upset about mistakes, unless we are continually repeating the same mistakes without learning from them.
+Mistakes are key for growth. You always learn more about yourself and your work when you make a mistake. Make them, but learn from them. I never get upset about mistakes, unless we are continually repeating the same mistakes without learning from them.
 
 ## Me as a Manager / Leader
 The above principles can say a lot about how I tend to work, but can also leave things up to interpretation. I want to be as clear as possible as to my expectations and the way I work as a manager & leader.
