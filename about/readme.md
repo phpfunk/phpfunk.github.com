@@ -32,7 +32,7 @@ Over the years I've been asked to take a few personality tests at work. I find t
 - I like to digest information before I respond
 - If I don't share early and often, I may not share at all
 - Sometimes I stretch myself too thin because I want to be helpful
-- I adore planning and organization &#129505;
+- I adore planning, organization, and flowcharts &#129505; -- that seems really strange to say out loud
 
 ### My Why Statement
 **'Creating meaningful relationships to encourage growth'** is how I try to live my life. I focus a lot of my time and energy on relationships so we can build trust and continue to grow. I genuinely care about people and their well being. I want to see everyone around me succeed, this brings me energy and fulfillment.
