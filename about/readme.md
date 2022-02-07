@@ -69,9 +69,9 @@ One on ones happen either weekly or biweekly. Your choice. They can range from 3
 
 ### Communication Style
 I think of communication in 3 aspects:
-- I need an immediate answer: Call me
-- I need an answer sometime today: Slack Me
-- I need an answer sometime this week: Email Me
+- You need an immediate answer: Call me
+- You need an answer sometime today: Slack Me
+- You need an answer sometime this week: Email Me
 
 ### Always Ask Why
 Why is the most important metric to track. If you don't know why you are building something, stop. If you don't know why you are being asked to do a task, please stop. We should all be asking 'Why' when we don't know. It is the most important metric we can track.
