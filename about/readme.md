@@ -75,7 +75,7 @@ One on ones happen either weekly or biweekly. Your choice. They can range from 3
 - You need an answer sometime this week: Email Me
 
 ### Always Ask Why
-Why is the most important metric to track. If you don't know why you are building something, stop. If you don't know why you are being asked to do a task, please stop. We should all be asking 'Why' when we don't know. It is the most important metric we can track.
+Why is the most important metric to track. If you don't know why you are building something, stop. If you don't know why you are being asked to do a task, please stop. We should all be asking 'Why' when we don't know.
 
 ### Ownership
 I expect that if you take the work, you own the work. If you are having issues, let's talk. I will not micromanage. I expect you to deliver what you say you will in the timeframe you agreed to.
