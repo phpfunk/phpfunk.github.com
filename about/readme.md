@@ -13,7 +13,7 @@ First and foremost, I never knew these documents existed and I am completely fas
 Below you will find information about me on a personal level as well as a professional level. Truth be told, they are the same. I really aim to be my authentic self no matter the situation. My level of comfort in each situation tends to let certain attributes shine or stay on reserve.
 
 # About Me
-My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/place/Bethlehem,+PA/@40.6253013,-75.4010458,13z/data=!3m1!4b1!4m5!3m4!1s0x89c43e4acc94c115:0x4ec59c491c91b283!8m2!3d40.6259316!4d-75.3704579) along with my wife Annie, 3 children (Anya, Ivy, and Olen), and our dog Herman. As a family we spend most of our time traveling to soccer related events. Soccer (football) is a household favorite, when not traveling for soccer events I have a few personal hobbies.
+My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/place/Bethlehem,+PA/@40.6253013,-75.4010458,13z/data=!3m1!4b1!4m5!3m4!1s0x89c43e4acc94c115:0x4ec59c491c91b283!8m2!3d40.6259316!4d-75.3704579) along with my wife Annie, our 3 children (Anya, Ivy, and Olen), and our dog Herman. As a family we spend most of our time traveling to soccer (football) related events. When not traveling for soccer events I have a few personal hobbies.
 
 - [collecting vinyl records](https://www.discogs.com/user/phpfunk/collection)
 - [Tinkering with cars](https://photos.app.goo.gl/5ZVjtpfjzqjpY5dz9)
@@ -21,13 +21,13 @@ My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/
 - I used to love running, but this [race](https://calendar.ultrarunning.com/runner/show?first_name=Jeff&last_name=Johns&runner_id=9291) broke me.
 
 ### Personality Types
-Over the years I've been asked to take a few personality tests at work. I personally find them fascinating and most of the time spot on. Some results that may interest you:
+Over the years I've been asked to take a few personality tests at work. I find them fascinating and most of the time spot on. Some results that may interest you:
 
 - Myers Briggs: [INFJ](https://www.verywellmind.com/infj-introverted-intuitive-feeling-judging-2795978)
 - Ennegram: [Type 5](https://www.truity.com/enneagram/personality-type-5-investigator)
 - Spirit Animal: [Bear](https://trustedpsychicmediums.com/spirit-animals/bear-spirit-animal/) - Yes, I really took a test for this &#128513;
 
-What I've been able to take away and fully believe in:
+**What I've been able to take away and believe in:**
 - I lead with empathy & trust
 - I like to digest information before I respond
 - If I don't share early and often, I may not share at all
@@ -35,7 +35,7 @@ What I've been able to take away and fully believe in:
 - I adore planning and organization &#129505;
 
 ### My Why Statement
-*'Creating meaningful relationships to encourage growth'* is how I try to live my life whether at work or at home. I focus a lot of my time and energy on relationships so we can build trust and continue to grow. I genuinely care about people and their well being. I want to see everyone around me succeed, this brings me energy and fulfillment.
+**'Creating meaningful relationships to encourage growth'** is how I try to live my life whether at work or at home. I focus a lot of my time and energy on relationships so we can build trust and continue to grow. I genuinely care about people and their well being. I want to see everyone around me succeed, this brings me energy and fulfillment.
 
 # My Core Principles
 Over the years I've gone through iterations of how I work and what I believe in. I believe it's important to try and stay as closely aligned to your principles as possible. If you want to be your authentic self, then you need to know where you stand.
