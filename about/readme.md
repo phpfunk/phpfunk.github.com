@@ -63,7 +63,7 @@ One on ones happen either weekly or biweekly. Your choice. They can range from 3
 ### Feedback Loops
 - I really don't like public praise, I tend to shy away from it. It's okay to embarrass me with this, I will recover.
 - I want & expect feedback whether it's good or bad in both directions. From the team and leadership.
-- I want to understand how you like to receive feedback to not make you feel uncomfortable.
+- I want to understand how you like to receive feedback to make you feel comfortable.
 - I will **NEVER** give criticism in public.
 - I will **ALWAYS** encourage you to give feedback to your peers.
 
