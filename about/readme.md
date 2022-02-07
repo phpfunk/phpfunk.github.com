@@ -107,7 +107,7 @@ We all have things we need help improving. Below are a few things I could always
 - I can be shy at first, ask me questions, I will open up.
 - I really don't like public praise. It's okay to embarrass me with this, I will recover.
 - In stressful situations I tend to bring comedy to break tension. Sorry in advance.
-- I always set my availability in slack, while not needed, I feel like I need to.
+- I always set my availability in slack, you can tell me it's not required but I will still do it.
 - I like to ask a lot of questions. It's not because I don't trust you, it's because I believe asking questions might uncover things we didn't think about.
 - Sometimes I throw out "dumb" ideas just to get people talking.
 - I do not like to raise my voice and feel embarrassed if I do.
