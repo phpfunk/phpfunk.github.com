@@ -81,7 +81,8 @@ We all have things we need help improving. Below are a few things I could always
 - I can be shy at first, ask me questions, I will open up right away.
 - In stressful situations I tend to bring comedy to break tension. Sorry in advance.
 - I always set my availability in slack, while not needed, I feel like I need to.
-- I like to ask a lot of questions. I believe asking simple questions can go a long way.
+- I like to ask a lot of questions. It's not because I don't trust you, it's because I believe asking questions and uncover things we didn't think about.
+- Sometimes I throw out "dumb" ideas just to get people talking.
 - I do not like to raise my voice. I will likely never be the loudest person in the room.
 - I sometimes move my lips but don’t speak when I think…Apologies in advance if we are on zoom and you ask if I said something :D
 
