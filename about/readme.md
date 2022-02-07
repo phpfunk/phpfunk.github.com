@@ -8,7 +8,7 @@
 
 
 # Intro
-Creating this document was a great experience. It is intended to be an "About Me" for not only what I'm like as manager and leader, but also what I'm like as a person. It allows you to get to know me a bit, but also forces you to really think how you like and want to lead. Quite brilliant.
+Creating this document was a great experience. It is intended to be an "About Me" for not only what I'm like as manager and leader, but also what I'm like as a person. It allows you to get to know me and allows the individual to really think how you they lead. Quite brilliant.
 
 Below you will find information about me on a personal and professional level. Truth be told, they are the same. I really aim to be my authentic self no matter the situation. My level of comfort in each situation tends to let certain attributes shine or stay on reserve.
 
