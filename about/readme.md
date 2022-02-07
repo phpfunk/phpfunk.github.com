@@ -3,9 +3,7 @@ First and foremost, I never knew these documents existed and I am completely fas
 
 Below you will find information about me on a personal level as well as a professional level. Truth be told, they are the same. I really aim to be my authentic self whether at work or at home. My level of comfort in each situation tends to let certain attributes shine or stay on reserve.
 
--- Quick notes
-
-## About me (personal)
+## About Me
 My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/place/Bethlehem,+PA/@40.6253013,-75.4010458,13z/data=!3m1!4b1!4m5!3m4!1s0x89c43e4acc94c115:0x4ec59c491c91b283!8m2!3d40.6259316!4d-75.3704579) along with my wife Annie, 3 children (Anya, Ivy, and Olen), and our dog Herman. As a family we spend most of our time traveling to soccer related events. Soccer (football) is a household favorite, when not traveling for soccer events, we are typically supporting the Philadelphia Union (MLS) and Liverpool (EPL).
 
 On a personal note a few of my hobbies include: [collecting vinyl records](https://www.discogs.com/user/phpfunk/collection), tinkering with cars, [coding personal projects](https://github.com/phpfunk), and I used to [love running really long distances](https://calendar.ultrarunning.com/runner/show?first_name=Jeff&last_name=Johns&runner_id=9291).
