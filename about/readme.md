@@ -91,7 +91,9 @@ Let's be honest, conflicts happen. Even with best intentions, they happen. When 
 I don't believe in perfect. I believe in small iterations to succeed. Whether that is a feature, personal growth, or an operational change. Keep it small, keep iterating, and revert if you need to. Need proof? Just check out the [commit history](https://github.com/phpfunk/phpfunk.github.com/commits/aboutme/about/readme.md) for this readme.
 
 ### Make Mistakes
-Mistakes are key for growth. I have failed at everything in this readme at some point in my life. You always learn more about yourself and your work when you make a mistake. I never get upset about mistakes, unless we are continually repeating the same mistakes without learning from them.
+Mistakes are key for growth. I have failed at everything in this readme at some point in my life. You always learn more about yourself and your work when you make a mistake. I never get upset about mistakes, unless we are continually repeating the same mistakes without learning from them. I even had a hat made around this.
+
+![Make Mistakes Hat](/images/make-mistakes.jpeg)
 
 ### Work/Life Balance
 I value time away from work to relax and recharge. You should as well. I don't normally check email/slack in off times. If you do need me during non-core hours, please give me a call. I will always answer or get right back to you. I will not contact you in off times unless it is an emergency. They make delayed sending in slack and gmail for this very reason.
