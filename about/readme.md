@@ -18,7 +18,7 @@ Over the years I've been asked to take a few personality tests at work. I person
 - Ennegram: [Type 5](https://www.truity.com/enneagram/personality-type-5-investigator)
 - Spirit Animal: [Bear](https://trustedpsychicmediums.com/spirit-animals/bear-spirit-animal/) - Yes, I really took a test for this &#128513;
 
-What I've been able to take away from all of these are a few key points:
+What I've been able to take away and fully believe in:
 - I lead with empathy & trust
 - I like to digest information before I respond
 - If I don't share early and often, I may not share at all
