@@ -61,9 +61,9 @@ One on ones happen either weekly or biweekly. Your choice. They can range from 3
 ![Sample Trello Board](/images/trello-sample.png)
 
 ### Feedback Loops
-- I really don't like public praise, I tend to shy away from it. It's okay to embarrass me with this, but I will turn red and not say much.
+- I really don't like public praise, I tend to shy away from it. It's okay to embarrass me with this, I will recover.
 - I want & expect feedback whether it's good or bad in both directions. From the team and leadership.
-- I would love to understand how you like to feedback to not make you feel uncomfortable.
+- I want understand how you like to receive feedback to not make you feel uncomfortable.
 - I will **NEVER** give criticism in public.
 - I will **ALWAYS** encourage you to give feedback to your peers.
 
