@@ -1,9 +1,9 @@
-## About this document
+# About this document
 First and foremost, I never knew these documents existed and I am completely fascinated by this. I love this idea of me taking time to really put pen to paper to understand more about me and how we can work together. I think it will also allow me to understand myself better. Quite brilliant.
 
 Below you will find information about me on a personal level as well as a professional level. Truth be told, they are the same. I really aim to be my authentic self no matter the situation. My level of comfort in each situation tends to let certain attributes shine or stay on reserve.
 
-## About Me
+# About Me
 My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/place/Bethlehem,+PA/@40.6253013,-75.4010458,13z/data=!3m1!4b1!4m5!3m4!1s0x89c43e4acc94c115:0x4ec59c491c91b283!8m2!3d40.6259316!4d-75.3704579) along with my wife Annie, 3 children (Anya, Ivy, and Olen), and our dog Herman. As a family we spend most of our time traveling to soccer related events. Soccer (football) is a household favorite, when not traveling for soccer events I have a few personal hobbies.
 
 - [collecting vinyl records](https://www.discogs.com/user/phpfunk/collection)
@@ -28,7 +28,7 @@ What I've been able to take away and fully believe in:
 ### My Why Statement
 *'Creating meaningful relationships to encourage growth'* is how I try to live my life whether at work or at home. I focus a lot of my time and energy on relationships so we can build trust and continue to grow. I genuinely care about people and their well being. I want to see everyone around me succeed, this brings me energy and fulfillment.
 
-## Core Principles
+# My Core Principles
 Over the years I've gone through iterations of how I work and what I believe in. I believe it's important to try and stay as closely aligned to your principles as possible. If you want to be your authentic self, then you need to know where you stand.
 
 ### Be as Transparent as Possible
@@ -49,7 +49,7 @@ I don't believe in perfect. I believe in small iterations to succeed. Whether th
 ### Make Mistakes
 Mistakes are key for growth. You always learn more about yourself and your work when you make a mistake. Make them, but learn from them. I never get upset about mistakes, unless we are continually repeating the same mistakes without learning from them.
 
-## Me as a Manager / Leader
+# Me as a Manager / Leader
 The above principles can say a lot about how I tend to work, but can also leave things up to interpretation. I want to be as clear as possible as to my expectations and the way I work as a manager & leader.
 
 ### People & Team First, Always
@@ -68,7 +68,7 @@ One on ones happen either weekly or biweekly. Your choice. They can range from 3
 - I will **ALWAYS** encourage you to give feedback to your peers.
 
 ### Communication Channels
-- You need an immediate answer: Call me
+- You need an immediate answer: Call Me
 - You need an answer sometime today: Slack Me
 - You need an answer sometime this week: Email Me
 
@@ -81,19 +81,19 @@ The last thing I want is for me to just solve problems for you. It doesn't benef
 ### Work/Life Balance
 I value time away from work to relax and recharge. You should as well. I don't normally check email/slack in off times. If you do need me during non-core hours, please give me a call. I will always answer or get right back to you.
 
-## Things I Need Help With
+# Things I Need Help With
 We all have things we need help improving. Below are a few things I could always use feedback and help with to improve.
 
 - I default to problem solving in conversations. If it's not something you want me to solve, but rather be your rubber duck, please tell me up front.
-- At times I can hold a decision too long because I want data. I know in my gut the right thing to do. Please push me outside my comfort zone if you see this. I will respond.
+- At times I can hold a decision too long because I want data to be sure. Please push me outside my comfort zone if you see this. I will respond.
 - When there are loud people in the room, I can tend to back down. In those situations, I think it is helpful to call on people not talking to give everyone a chance to voice opinions.
 - If I look lost it is likely because I've been thinking about a problem for too long, please tell me to take a walk. Everything is solved on walks.
 
-## Personality Quirks
+# Personality Quirks
 - I can be shy at first, ask me questions, I will open up right away.
 - In stressful situations I tend to bring comedy to break tension. Sorry in advance.
 - I always set my availability in slack, while not needed, I feel like I need to.
-- I like to ask a lot of questions. It's not because I don't trust you, it's because I believe asking questions and uncover things we didn't think about.
+- I like to ask a lot of questions. It's not because I don't trust you, it's because I believe asking questions might uncover things we didn't think about.
 - Sometimes I throw out "dumb" ideas just to get people talking.
-- I do not like to raise my voice. I will likely never be the loudest person in the room.
+- I do not like to raise my voice and feel embarrassed if I do.
 - I sometimes move my lips but don’t speak when I think…Apologies in advance if we are on zoom and you ask if I said something &#128513;
