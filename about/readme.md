@@ -96,7 +96,7 @@ Mistakes are key for growth. I have failed at everything in this readme at some 
 I value time away from work to relax and recharge. You should as well. I don't normally check email/slack in off times. If you do need me during non-core hours, please give me a call. I will always answer or get right back to you. I will not contact you in off times unless it is an emergency. They make delayed sending in slack and gmail for this very reason.
 
 # Things I Need Help With
-We all have things we need help improving. Below are a few things I could always use feedback and help with to improve.
+We all have things we need help improving. Below are a few things I could always use help with to improve.
 
 - I default to problem solving in conversations. If it's not something you want me to solve, but rather be your rubber duck, please tell me up front.
 - At times I can hold a decision too long because I want data to be sure. Please push me outside my comfort zone if you see this. I will respond.
