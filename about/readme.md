@@ -2,7 +2,7 @@
 - [Intro](#intro)
 - [About Me](#about-me)
 - [My Core Principles](#my-core-principles)
-- [Me as a Manage/Leader](#me-as-a-manager--leader)
+- [Me as a Manager/Leader](#me-as-a-manager--leader)
 - [Things I Need Help With](#things-i-need-help-with)
 - [Personality Quirks](#personality-quirks)
 
