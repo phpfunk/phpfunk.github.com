@@ -100,7 +100,7 @@ We all have things we need help improving. Below are a few things I could always
 
 - I default to problem solving in conversations. If that's not your need, but rather me being your rubber duck, please tell me up front.
 - At times I can hold a decision too long because I want data to be sure. Please push me outside my comfort zone if you see this. I will respond.
-- When there are loud people in the room, I can tend to back down. In those situations, I think it is helpful to call on people not talking to give everyone a chance to voice opinions.
+- When there are loud people in the room, I can tend to back down. In those situations, I think it's helpful to call on people to give everyone a chance to voice opinions.
 - If I look lost it is likely because I've been thinking about a problem for too long, please tell me to take a walk. Everything is solved on walks.
 
 # Personality Quirks
