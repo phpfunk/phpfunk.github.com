@@ -104,7 +104,7 @@ We all have things we need help improving. Below are a few things I could always
 - If I look lost it is likely because I've been thinking about a problem for too long, please tell me to take a walk. Everything is solved on walks.
 
 # Personality Quirks
-- I can be shy at first, ask me questions, I will open up right away.
+- I can be shy at first, ask me questions, I will open up.
 - I really don't like public praise. It's okay to embarrass me with this, I will recover.
 - In stressful situations I tend to bring comedy to break tension. Sorry in advance.
 - I always set my availability in slack, while not needed, I feel like I need to.
