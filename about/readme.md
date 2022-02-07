@@ -78,7 +78,7 @@ One on ones happen either weekly or biweekly. Your choice. They can range from 3
 Why is the most important metric to track. If you don't know why you are building something, stop. If you don't know why you are being asked to do a task, please stop. We should all be asking 'Why' when we don't know.
 
 ### Ownership
-I expect that if you take the work, you own the work. If you are having issues, let's talk. I will not micromanage. I expect you to deliver what you say you will in the timeframe you agreed to.
+I expect that if you take the work, you own the work. If you are having issues, let's talk, I will help. I do not micromanage. I expect you to deliver what you say you will in the timeframe you agreed to.
 
 ### Problem Solving
 We will solve problems together. I will not solve your problems for you. It doesn't benefit you or me. When you come to me with a problem I am likely going to ask you 'Well, what do you think?'. This isn't because I don't have an opinion, it's because I want to hear yours. I want you to make mistakes and find the right path. I will help you find the tools & skillsets you need to solve problems.
