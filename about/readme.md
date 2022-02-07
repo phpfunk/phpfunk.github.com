@@ -41,7 +41,7 @@ We are all different for a reason. We all think differently, feel differently, s
 I lead with trust from day one. We're all here for a reason and you don't need to earn trust. We may lose each other's trust at times and have to earn it back, but from day one, trust is given.
 
 ### Lead with Your Second Thought
-If you've worked with me for some time, you may hear me say this. We all have our first reactionary thought. Don't say that, it's typically filled with emotion that may cause people to not hear what you really want to say. Wait for your second thought, if you don't have one, sit on that first thought to make sure it's the right thing to say. Sometimes saying nothing is the right thing to say.
+If you've worked with me for some time, you may hear me say this. We all have our first reactionary thought. Don't say that, it's typically filled with emotion that may cause people to not hear what you really want to say. Wait for your second thought, if you don't have one, sit on that first thought to make sure it's the right thing to say. Sometimes saying nothing is enough.
 
 ### Iterations are the New Perfect
 I do not believe in perfect. I believe in small iterations to succeed. Whether that is a feature, personal growth, an operational change. Keep it small, keep iterating, and revert if you need to.
