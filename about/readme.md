@@ -12,7 +12,7 @@ My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/
 - I used to love running, but this [race](https://calendar.ultrarunning.com/runner/show?first_name=Jeff&last_name=Johns&runner_id=9291) broke me.
 
 ### Personality Types
-Over the years I've been asked to take a few personality tests at work. I personally find them fascinating and most of the times spot on. Some results that may interest you:
+Over the years I've been asked to take a few personality tests at work. I personally find them fascinating and most of the time spot on. Some results that may interest you:
 
 - Myers Briggs: [INFJ](https://www.verywellmind.com/infj-introverted-intuitive-feeling-judging-2795978)
 - Ennegram: [Type 5](https://www.truity.com/enneagram/personality-type-5-investigator)
