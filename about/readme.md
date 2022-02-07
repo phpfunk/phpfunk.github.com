@@ -90,5 +90,5 @@ We all have things we need help improving. Below are a few things I could always
 - I really don't like public praise, I tend to shy away from it. It's okay to embarrass me with this, but I will turn red and not say much.
 - I want feedback whether it's good or bad in both directions. From the team and leadership.
 - I would love to understand how you like to feedback to not make you feel uncomfortable.
-- I will **NEVER** give personal criticism in public.
+- I will **NEVER** give criticism in public.
 - I will **ALWAYS** encourage you to give feedback to your peers.
