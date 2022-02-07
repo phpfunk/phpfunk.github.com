@@ -58,7 +58,7 @@ While we all have our own personal growth goals, we need to think about the team
 ### 1:1s
 One on ones happen either weekly or biweekly. Your choice. They can range from 30, 45, or 60 minutes. Again, your choice. I tend to like to set up trello boards to track topics and not lose sight of our goals. This is a not an update session on tasks or projects, this is about you and your growth. The trello board will be populated by both myself and you with relevant topics.
 
--- INSERT IMAGE --
+![Sample Trello Board](/images/trello-sample.png)
 
 ### Feedback Both Ways
 I expect feedback from you. I will always be there to give you feedback, but I also expect and need this about myself from you. Again team first, if I am doing something that is hurting the team or you, please tell me as soon as possible. I want to continue to grow and learn as well.
