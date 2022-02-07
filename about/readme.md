@@ -13,11 +13,16 @@ On a personal note a few of my hobbies include: collecting vinyl records, tinker
 ### Personality Type
 Over the years I've been asked to take many personality tests at work. I personally find them fascinating and most of the times spot on. Some results that may interest you:
 
-- Myers Briggs: [INFJ](https://www.mbtitest.com/infj)
+- Myers Briggs: [INFJ](https://www.verywellmind.com/infj-introverted-intuitive-feeling-judging-2795978)
 - Ennegram: [Type 5](https://www.truity.com/enneagram/personality-type-5-investigator)
 - Spirit Animal: [Bear](https://trustedpsychicmediums.com/spirit-animals/bear-spirit-animal/) - Yes, I really took a test for this :D
 
-What I've been able to take away from all of these boils down to this: I lead with Empathy & Trust, I need to think most times before I respond, I **NEED** to share early and often or I might not share at all, sometimes I take on too much because I want to help, and it took years to kick the habit but I am a recovering perfectionist. I've fully embraced learning by making mistakes and iterations are the new perfect.
+What I've been able to take away from all of these are a few key points:
+- I lead with Empathy & Trust
+- I like to think most times before I respond
+- If I don't share early and often, I may not share at all
+- Sometimes I stretch myself too thin because I want to be helpful
+- I adore planning and organization (wow that sounds crazy)
 
 ### My Why Statement
 *'Creating meaningful relationships to encourage growth'* is how I try to live my life whether at work or at home. I focus a lot of my time and energy on relationships so we can build trust and continue to grow. I genuinely care about people and their well being. I want to see everyone around me succeed, this brings me energy and joy.
