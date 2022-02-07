@@ -13,7 +13,7 @@ First and foremost, I never knew these documents existed and I am completely fas
 Below you will find information about me on a personal level as well as a professional level. Truth be told, they are the same. I really aim to be my authentic self no matter the situation. My level of comfort in each situation tends to let certain attributes shine or stay on reserve.
 
 # About Me
-My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/place/Bethlehem,+PA/@40.6253013,-75.4010458,13z/data=!3m1!4b1!4m5!3m4!1s0x89c43e4acc94c115:0x4ec59c491c91b283!8m2!3d40.6259316!4d-75.3704579) along with my wife Annie, our 3 children (Anya, Ivy, and Olen), and our dog Herman. As a family we spend most of our time traveling to soccer (football) related events. When not traveling for soccer events I have a few personal hobbies.
+My name is Jeff Johns and I live in [Bethlehem, PA](https://www.google.com/maps/place/Just+Born+Quality+Confections/@40.6320851,-75.3562492,17z/data=!3m1!4b1!4m5!3m4!1s0x89c43fcfb5e887a1:0xfe15a5d32a833bd4!8m2!3d40.632081!4d-75.3540605) along with my wife Annie, our 3 children (Anya, Ivy, and Olen), and our dog Herman. As a family we spend most of our time traveling to soccer (football) related events. When not traveling for soccer events I have a few personal hobbies.
 
 - [collecting vinyl records](https://www.discogs.com/user/phpfunk/collection)
 - [Tinkering with cars](https://photos.app.goo.gl/5ZVjtpfjzqjpY5dz9)
