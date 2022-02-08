@@ -82,7 +82,7 @@ I like to book my calendar with not only meetings but blocks of time to get thin
 - I will **ALWAYS** encourage you to give feedback to your peers.
 
 ### Communication Channels
-- You have an emergency or immediate answer: Call Me
+- You have an emergency: Call Me
 - You need an answer sometime today: Slack Me
 - You need an answer sometime this week: Email Me
 
@@ -108,6 +108,14 @@ Mistakes are key for growth. I have failed at everything in this readme at some 
 
 ### Work/Life Balance
 I value time away from work to relax and recharge. You should as well. I don't normally check email/slack in off times. If you do need me during non-core hours, please give me a call. I will always answer or get right back to you. I will not contact you in off times unless it is an emergency. They make delayed sending in slack and gmail for this very reason.
+
+# What Does Success Look Like For Me
+- The team is consistency delivering valuable product updates to customers
+- The team is hitting their goals that rollup to company goals
+- The team is comfortable pushing back when they don't understand why
+- The team can operate without me
+- Everyone (at the company) is comfortable giving me feedback
+- Individuals have growth plans and are working towards the next stage of their career
 
 # Things I Need Help With
 We all have things we need help improving. Below are a few things I could always use help with to improve.
