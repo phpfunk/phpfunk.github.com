@@ -65,9 +65,9 @@ The above principles can say a lot about how I tend to work, but can also leave 
 ### People & Team First, Always
 My primary goals are to make the team and each individual as successful as possible. The two are not exclusive. Individuals can only grow so much without the team and team cannot grow without each individual's growth. Collaboration is key for a successful team and the growth of each engineer. I expect we all put egos and titles aside and solve problems together. I will work with each team member on their growth plans and what a future could look like for them to not only help them, but the entire team.
 
-I believe if people/team know you have their backs in tough times, have their best interests in mind, and you are focusing your time on their growth, they can focus on delivering to meet company goals. To me it's not team over company or vice-versa, they work hand-in-hand. I don't believe there should be a tradeoff of company goals vs. team goals. They should work in harmony. If not, ask why to understand better.
+I believe if people/team know you have their backs in tough times, have their best interests in mind, and you are focusing your time on their growth, they can focus on delivering to meet company goals. To me it's not team over company or vice-versa, they work together. I don't believe there should be a tradeoff between company, team, or personal goals. They should work in harmony. If not, ask why to understand better.
 
-Fulfilled people build great teams build successful companies.
+Fulfilled people make great teams that build successful companies.
 
 ### 1:1s
 One on ones happen either weekly or biweekly. Your choice. They can range from 30, 45, or 60 minutes. Again, your choice. I tend to like to set up trello boards to track topics and not lose sight of our goals. This is a not an update session on tasks or projects, this is about you and your growth. The trello board will be populated by both you and myself with relevant topics. If we are having open and honest 1:1s, there should be no question of where you stand in your growth.
