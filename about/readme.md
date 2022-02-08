@@ -34,6 +34,12 @@ Over the years I've been asked to take a few personality tests at work. I find t
 - Sometimes I stretch myself too thin because I want to be helpful
 - I adore planning, organization, and flowcharts &#129505; -- that seems really strange to say out loud
 
+**Mitigation Strategies For Shortcomings**
+- Set due dates, so very helpful
+- Push back on me if you see me taking on too much
+- Let me think for a bit and follow up
+- Continue to push me outside my comfort zones
+
 ### My Why Statement
 **'Creating meaningful relationships to encourage growth'** is how I try to live my life. I focus a lot of my time and energy on relationships so we can build trust and continue to grow. I genuinely care about people and their well being. I want to see everyone around me succeed, this brings me energy and fulfillment.
 
@@ -50,13 +56,15 @@ We are all different for a reason. We all think differently, feel differently, s
 I lead with trust from day one. We're all here for a reason and you don't need to earn trust. We may lose each other's trust at times and have to earn it back, but from day one, trust is given.
 
 ### Lead with Your Second Thought
-If you've worked with me for some time, you may hear me say this. We all have our first reactionary thought. Don't say that, it's typically filled with emotion that may cause people to not hear what you really want to say. Wait for your second thought, if you don't have one, it's okay to say nothing. Sometimes saying nothing is enough.
+If you've worked with me a bit and I sense you are reacting instead of responding, you've likely heard me say this statement. What this means to me is that we all have times where we react rather than digest the situation so we can clearly respond. If you find yourself reacting instead of thinking out your response, stop for a second, breathe, and see if a second thought comes to you. It takes some time to practice, but it is helpful inside and outside of work. In these situations it's ok to not respond right away and say let me get back to you later. Take some time to think out a proper response.
 
 # Me as a Manager / Leader
 The above principles can say a lot about how I tend to work, but can also leave things up to interpretation. I want to be as clear as possible as to my expectations and the way I work as a manager & leader.
 
 ### People & Team First, Always
 My primary goals are to make the team and each individual as successful as possible. The two are not exclusive. Individuals can only grow so much without the team and team cannot grow without each individual's growth. Collaboration is key for a successful team and the growth of each engineer. I expect we all put egos and titles aside and solve problems together. I will work with each team member on their growth plans and what a future could look like for them to not only help them, but the entire team.
+
+I believe if the team is being taken care of and know their manager are working to clear roadblocks, focusing on their growth, and have their backs in tough times, they can focus on delivering product to meet company goals.
 
 ### 1:1s
 One on ones happen either weekly or biweekly. Your choice. They can range from 30, 45, or 60 minutes. Again, your choice. I tend to like to set up trello boards to track topics and not lose sight of our goals. This is a not an update session on tasks or projects, this is about you and your growth. The trello board will be populated by both you and myself with relevant topics. If we are having open and honest 1:1s, there should be no question of where you stand in your growth.
@@ -74,7 +82,7 @@ I like to book my calendar with not only meetings but blocks of time to get thin
 - I will **ALWAYS** encourage you to give feedback to your peers.
 
 ### Communication Channels
-- You need an immediate answer: Call Me
+- You have an emergency or immediate answer: Call Me
 - You need an answer sometime today: Slack Me
 - You need an answer sometime this week: Email Me
 
