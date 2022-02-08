@@ -36,7 +36,7 @@ Over the years I've been asked to take a few personality tests at work. I find t
 - I adore planning, organization, and flowcharts &#129505; -- that seems really strange to say out loud
 
 **Mitigation Strategies For Shortcomings**
-- Set due dates, so very helpful
+- If I don't set a due date, set one for me. It drives me to share early.
 - Push back on me if you see me taking on too much
 - Let me think for a bit and follow up
 - Continue to push me outside my comfort zones
