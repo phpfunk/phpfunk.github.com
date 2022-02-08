@@ -35,7 +35,7 @@ Over the years I've been asked to take a few personality tests at work. I find t
 - Sometimes I stretch myself too thin because I want to be helpful
 - I adore planning, organization, and flowcharts &#129505; -- that seems really strange to say out loud
 
-**Mitigation Strategies For Shortcomings**
+**Mitigation Strategies For My Shortcomings**
 - If I don't set a due date, set one for me. It drives me to share early.
 - Push back on me if you see me taking on too much
 - Let me think for a bit and follow up
