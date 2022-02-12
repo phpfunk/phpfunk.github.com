@@ -113,7 +113,7 @@ Mistakes are key for growth. I have failed at everything in this readme at some 
 I value time away from work to relax and recharge. You should as well. I don't normally check email/slack in off times. If you do need me during non-core hours, please give me a call. I will always answer or get right back to you. I will not contact you in off times unless it is an emergency. They make delayed sending in slack and gmail for this very reason.
 
 # What Does Success Look Like
-- The team is consistency delivering valuable updates to customers
+- The team is consistently delivering valuable updates to customers
 - The team is hitting their goals that rollup to company goals
 - The team is comfortable pushing back when they don't understand why
 - The team can operate without me
