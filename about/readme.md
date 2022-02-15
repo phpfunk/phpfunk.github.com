@@ -78,7 +78,7 @@ One on ones happen either weekly or biweekly. Your choice. They can range from 3
 I like to book my calendar with not only meetings but blocks of time to get things done. I am open to you booking your own time on my calendar but please be respectful of time blocks that are already booked. If you book a meeting on my calendar I expect the invite to have an agenda and what you would like the outcome to be. If not, I will reach out to you before I accept your invite.
 
 ### Hiring Philosophy
-I always strive to hire the best person for the job. It is more important for the hire to align well with the company's values rather than just skills alone. Skills can always be taught but if the person's values don't align with the company's, things will not work out and it could hurt the team.
+I always strive to hire the best person for the job. It is more important for the hire to align well with the company's values rather than just skills alone. Skills can always be taught but if the person's values don't align with the company's, things won't work out and it usually ends up hurting the team more than helping them.
 
 ### Feedback
 - I want & expect feedback whether it's good or bad in both directions. From the team and leadership.
