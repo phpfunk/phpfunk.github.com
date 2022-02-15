@@ -104,11 +104,11 @@ We will solve problems together. I will not solve your problems for you. It does
 ### Conflict Resolution
 Let's be honest, conflicts happen. Even with best intentions, they happen. When conflicts between people arise I will not solve this for you. Again, I will help you solve the problem and give you the right tools to feel ready to have the right conversation, but I will not speak for you. I have and I will be a 3rd party in conflict resolution when needed.
 
-### Iterations are the New Perfect
+### Iterations Lead to Success
 I don't believe in perfect. I believe in small iterations to succeed. Whether that is a feature, personal growth, or an operational change. Keep it small, keep iterating, and revert if you need to. Need proof? Just check out the [commit history](https://github.com/phpfunk/phpfunk.github.com/commits/aboutme/about/readme.md) for this readme.
 
 ### Make Mistakes
-Mistakes are key for growth. I have failed at everything in this readme at some point in my life. You always learn more about yourself and your work when you make a mistake. I never get upset about mistakes, unless we are continually repeating the same mistakes without learning from them. I even had a hat made around this.
+Mistakes are key for growth. I've failed at everything in this readme at some point in my life. You always learn more about yourself and your work when you make a mistake. I never get upset about mistakes, unless we are continually repeating the same mistakes without learning from them. I even had a hat made around this.
 
 ![Make Mistakes Hat](/images/make-mistakes.jpeg)
 
