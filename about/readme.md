@@ -56,7 +56,7 @@ We are all different for a reason. We all think differently, feel differently, s
 ### Trust First
 I lead with trust from day one. We're all here for a reason and you don't need to earn trust. We may lose each other's trust at times and have to earn it back, but from day one, trust is given.
 
-### Lead with Your Second Thought
+### Respond Over React
 If you've worked with me a bit and I sense you are reacting instead of responding, you've likely heard me say this statement. What this means to me is that we all have times where we react rather than digest the situation so we can clearly respond. If you find yourself reacting instead of thinking out your response, stop for a second, breathe, and see if a second thought comes to you. It takes some practice, but can be really helpful in stressful situations. It's ok to not respond right away and say let me get back to you later. Take some time to think out a proper response.
 
 # Me as a Manager / Leader
