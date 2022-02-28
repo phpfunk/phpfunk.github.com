@@ -62,7 +62,7 @@ If you've worked with me a bit and I sense you are reacting instead of respondin
 # Me as a Manager / Leader
 The above principles can say a lot about how I tend to work, but can also leave things up to interpretation. I want to be as clear as possible as to my expectations and the way I work as a manager & leader.
 
-### People & Team First, Always
+### People & Team First
 My primary goals are to make the team and each individual as successful as possible. The two are not exclusive. Individuals can only grow so much without the team and team cannot grow without each individual's growth. Collaboration is key for a successful team and the growth of each engineer. I expect we all put egos and titles aside and solve problems together. I will work with each team member on their growth plans and what a future could look like for them to not only help them, but the entire team.
 
 I believe if people/team know you have their backs in tough times, have their best interests in mind, and you are focusing your time on their growth, they can focus on delivering to meet company goals. To me it's not team over company or vice-versa, they work together. I don't believe there should be a tradeoff between company, team, or personal goals. They should work in harmony. If not, ask why to understand better.
