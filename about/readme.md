@@ -120,7 +120,7 @@ I value time away from work to relax and recharge. You should as well. I don't n
 - The team is hitting their goals that rollup to company goals
 - The team is comfortable pushing back when they don't understand why
 - The team can operate without me
-- Everyone (at the company) is comfortable giving me feedback
+- Everyone is comfortable giving me feedback
 - Individuals have growth plans and are working towards the next stage of their career
 
 # Things I Need Help With
