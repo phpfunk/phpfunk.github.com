@@ -47,7 +47,7 @@ Over the years I've been asked to take a few personality tests at work. I find t
 # My Core Principles
 Over the years I've gone through iterations of how I work and what I believe in. I believe it's important to try and stay as closely aligned to your principles as possible. If you want to be your authentic self, then you need to know where you stand.
 
-### Be as Transparent as Possible
+### Transparency
 Not everyone feels comfortable discussing every topic in a fully transparent fashion. I want people to be as transparent as possible. If you feel comfortable discussing a topic, let's go. If not, say that. Don't hide from it, let me know you don't feel comfortable and we will find another path.
 
 ### Embrace our Differences
@@ -67,7 +67,7 @@ My primary goals are to make the team and each individual as successful as possi
 
 I believe if people/team know you have their backs in tough times, have their best interests in mind, and you are focusing your time on their growth, they can focus on delivering to meet company goals. To me it's not team over company or vice-versa, they work together. I don't believe there should be a tradeoff between company, team, or personal goals. They should work in harmony. If not, ask why to understand better.
 
-Fulfilled people make great teams that build successful companies.
+Fulfilled people make great teams that build successful products.
 
 ### 1:1s
 One on ones happen either weekly or biweekly. Your choice. They can range from 30, 45, or 60 minutes. Again, your choice. I tend to like to set up trello boards to track topics and not lose sight of our goals. This is a not an update session on tasks or projects, this is about you and your growth. The trello board will be populated by both you and myself with relevant topics. If we are having open and honest 1:1s, there should be no question of where you stand in your growth.
