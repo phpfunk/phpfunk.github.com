@@ -2,7 +2,7 @@
 - [Intro](#intro)
 - [About Me](#about-me)
 - [My Core Principles](#my-core-principles)
-- [Me as a Manager/Leader](#me-as-a-manager--leader)
+- [Me as a Leader](#me-as-a-leader)
 - [What Does Success Look Like](#what-does-success-look-like)
 - [Things I Need Help With](#things-i-need-help-with)
 - [Personality Quirks](#personality-quirks)
@@ -59,7 +59,7 @@ I lead with trust from day one. We're all here for a reason and you don't need t
 ### Lead With Your Second Thought
 If you've worked with me a bit and I sense you are reacting instead of responding, you've likely heard me say this statement. What this means is we all have times where we react rather than digest the situation so we can clearly respond. If you find yourself reacting instead of thinking out your response, stop for a second, breathe, and see if a second thought comes to you. It takes some practice, but can be really helpful in stressful situations. It's ok to not respond right away and say let me get back to you later. Take some time to think out a proper response.
 
-# Me as a Manager / Leader
+# Me as a Leader
 The above principles can say a lot about how I tend to work, but can also leave things up to interpretation. I want to be as clear as possible as to my expectations and the way I work as a manager & leader.
 
 ### People & Team First
