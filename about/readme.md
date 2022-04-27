@@ -127,15 +127,13 @@ I value time away from work to relax and recharge. You should as well. I don't n
 We all have things we need help improving. Below are a few things I could always use help with to improve.
 
 - I default to problem solving in conversations. If that's not your need, but rather me being your rubber duck, please tell me up front.
-- At times I can hold a decision too long because I want data to be sure. Please push me outside my comfort zone if you see this. I will respond.
-- When there are loud people in the room, I can tend to back down. In those situations, I think it's helpful to call on people to give everyone a chance to voice opinions.
-- If I look lost it is likely because I've been thinking about a problem for too long, please tell me to take a walk. Everything is solved on walks.
+- At times I can hold a decision if I don't have the data to back me up. My gut is usually right, just push me without data at times.
+- When there are loud people in the room, I can tend to be more reserved. In those situations, I think it's helpful to call on people to give everyone a chance to voice opinions.
 
 # Personality Quirks
 - I can be shy at first, ask me questions, I will open up.
 - I really don't like public praise. It's okay to embarrass me with this, I will recover.
 - In stressful situations I tend to bring comedy to break tension. Sorry in advance.
-- I always set my availability in slack, you can tell me it's not required but I'll still do it.
 - I like to ask a lot of questions. It's not because I don't trust you, it's because I believe asking questions might uncover things we didn't think about.
 - Sometimes I throw out "dumb" ideas just to get people talking.
 - I do not like to raise my voice and feel embarrassed if I do.
